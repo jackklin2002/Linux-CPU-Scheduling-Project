@@ -1,1 +1,2 @@
 # Linux-CPU-Scheduling-Project
+In this project, I collaborated with a team to implement two distinct CPU scheduling algorithms, Shortest Job First (SJF) and First-Come, First-Served (FCFS), using the C programming language within a Linux virtual machine terminal. Our objective was to evaluate each algorithm's performance by calculating various metrics, ultimately identifying the optimal solution for a specified set of processes.
